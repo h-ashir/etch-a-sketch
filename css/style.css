@@ -1,0 +1,20 @@
+.square{
+    display: inline-block;
+    /* display: inline-flex; */
+    border: 1px solid white;
+    background-color: red;
+    width: 25px;
+    height: 25px;
+}
+/* #container{
+    height: 100%;
+    width: 100%;
+}
+#gridContainer{
+    border: 1px solid black;
+    box-sizing: border-box;
+} */
+
+.grid-hover{
+    background-color: pink;
+}
